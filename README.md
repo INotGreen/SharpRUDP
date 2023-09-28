@@ -39,4 +39,5 @@ I once attempted to develop RUDP as a non-standard TCP/UDP communication protoco
 
 - When the client or server intends to end the connection, it sends a packet with a FIN flag. The recipient, upon receiving this packet, sends an ACK for confirmation and terminates the connection.
 
-![image](https://github.com/INotGreen/SharpRUDP/assets/89376703/7442194b-28df-43b1-b7a2-f879c38859d9)
+![image](https://github.com/INotGreen/SharpRUDP/assets/89376703/11e78e3b-3821-4348-ad1e-4f1a3d3c2e0f)
+
