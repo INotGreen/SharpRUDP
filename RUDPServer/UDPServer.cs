@@ -29,25 +29,7 @@ namespace RUDPServer
         public bool IsConnected { get; set; }
         public class ClientInfo
         {
-            public string HWID;
             public string RemoteIP;
-            public string User;
-            public string OS;
-            public string WANip;
-            public string LANip;
-            public string ProcessName;
-            public string Path;
-            public string Active;
-            public string Listenner;
-            public string Version;
-            public string Permission;
-            public string AV;
-            public string ProcessID;
-            public string SleepTime;
-            public string Remark;
-            public string RemarkClientColor;
-            public string Dllhash;
-            public string CLRVersion;
             public DateTime LastPing;
         }
         private readonly int HeartTimeOut = 5000;
