@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\代码 (2)\RUDP\bin\Debug\RUDP.exe.config
+C:\Users\Lenovo\Desktop\代码 (2)\RUDP\bin\Debug\RUDP.exe
+C:\Users\Lenovo\Desktop\代码 (2)\RUDP\bin\Debug\RUDP.pdb
+C:\Users\Lenovo\Desktop\代码 (2)\RUDP\Binares\RUDPClient.exe.config
+C:\Users\Lenovo\Desktop\代码 (2)\RUDP\Binares\RUDPClient.exe
+C:\Users\Lenovo\Desktop\代码 (2)\RUDP\Binares\RUDPClient.pdb
+C:\Users\Lenovo\Desktop\代码 (2)\RUDP\obj\Debug\RUDPCliet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\代码 (2)\RUDP\obj\Debug\RUDPCliet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\代码 (2)\RUDP\obj\Debug\RUDPClient.exe
+C:\Users\Lenovo\Desktop\代码 (2)\RUDP\obj\Debug\RUDPClient.pdb
