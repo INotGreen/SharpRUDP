@@ -162,7 +162,7 @@ namespace RUDP
         }
         private void HeartbeatTimeout(object state)
         {
-            // 如果计时器超时，将IsConnected设置为false
+            // If the timer expires, set IsConnected to false
             IsConnected = false;
             Console.WriteLine("Connection lost: no heartbeat received.");
             
